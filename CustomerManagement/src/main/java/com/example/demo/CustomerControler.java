@@ -14,7 +14,7 @@ public class CustomerControler{
 		CustomerService cs = new CustomerService();
 		
 		cs.saveCustomerinDb(c);
-		return "saved ";
+		return "HIIII";
 	
 		
 	}
